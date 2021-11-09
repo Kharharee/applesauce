@@ -47,6 +47,7 @@ class Contact extends Component {
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
 						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
+                     <span>{email}</span>
                   </div>
 
                   <div>
@@ -68,7 +69,7 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning"> Error!</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
@@ -86,9 +87,7 @@ class Contact extends Component {
 						   <span>{phone}</span>
 					   </p>
 				   </div>
-
-               
-            </aside>
+               </aside>
       </div>
    </section>
     );

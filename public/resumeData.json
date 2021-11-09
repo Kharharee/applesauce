@@ -3,8 +3,8 @@
     "name": "Kharharee Lane",
     "occupation": "Junior Web Devloper",
     "description": "A very eager and humble developer ready to take on challenging and new tasks daily.",
-    "image": "./images/photos/profilephoto.jpg",
-    "bio": "I am a Full Stack Software Engineer seeking new career opportunities in Atlanta. I attended the DigitalCrafts immersive full stack web development program and fell in love with coding. I am now looking for the right company to begin my career with!",
+    "image": "kharharee.jpg",
+    "bio": "I am a Full Stack Software Engineer seeking new career opportunities in Atlanta and remotely. I attended the DigitalCrafts immersive full stack web development program and fell in love with coding. I am now looking for the right company to begin my career with!",
     "contactmessage": "Hey! I hope you enjoyed my portfolio, please contact me below.",
     "email": "kharharee@gmail.com",
     "address": {
@@ -113,7 +113,7 @@
       {
         "title": "eVentures",
         "category": "An Activity driven app used for family, friends, solo, or partners to find new activities to do, even with a twist!",
-        "image": "eVentues.png",
+        "image": "eVentures.png",
         "url": "https://eventurefun.surge.sh/"
       }
      
